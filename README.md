@@ -34,5 +34,5 @@ I'm working as a Senior Software Engineer in [Eureko Sigorta](https://github.com
 
 You can find and get in touch with me on below accounts!
 
-[![Linkedin Badge](https://img.shields.io/badge/polatengin-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gorkem-sazara-msc-psmi-33536716/)
+[![Linkedin Badge](https://img.shields.io/badge/gorkemsazara-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gorkem-sazara-msc-psmi-33536716/)
 
